@@ -1,1 +1,1 @@
-# ottogeo.com
+# ottogeo
